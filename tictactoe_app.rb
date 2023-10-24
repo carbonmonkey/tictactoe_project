@@ -2,5 +2,5 @@ require "sinatra"
 require "sinatra/reloader"
 
 get "/" do
-  "Hello world!"
+  "Hello Jacob!"
 end
